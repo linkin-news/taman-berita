@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://linkin-news.github.io/taman-berita/sitemap.xml
